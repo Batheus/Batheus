@@ -17,7 +17,7 @@ I currently live in Osasco, São Paulo, Brazil.
 
 - 🔭 I’m currently working on my programming learning;
 - 🌱 I’m currently learning Flutter and Front-End WEB;
-- 👯 I’m looking for an opportunity in the job market as an intern or young apprentice;
+- 💼 I’m looking for an opportunity in the job market as an intern or young apprentice;
 - 💬 Ask me about anything tech related;
 - 📫 How to reach me: Shoot me an email or send me a message via [Whatsapp](https://api.whatsapp.com/send?phone=11970462720&text=Hello%20there,%20your%20GitHub%20profile%20caught%20my%20attention.);
 - 🎮 Fun fact: I love to play Teamfight Tactics and I'm a big fan of League of Legends. 
