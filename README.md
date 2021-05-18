@@ -10,14 +10,14 @@ I currently live in Osasco, São Paulo, Brazil.
 * **Name**: Matheus Henrique Rodrigues da Silva;
 * **Age**: 19;
 * **Living in**: Osasco, São Paulo, Brazil;
-* **Stack**: Dart - Flutter - JavaScript;
+* **Stack**: Dart - Flutter - JavaScript - Network;
 * **University**: Analysis and Systems Development at [Faculdade Impacta de Tecnologia](https://www.impacta.edu.br/).
 
 ### Some topics you would like to know about me:
 
-- 🔭 I’m currently working on my programming learning;
-- 🌱 I’m currently learning Flutter and Front-End WEB;
-- 💼 I’m looking for an opportunity in the job market as an intern or young apprentice;
+- 🔭 I’m currently working on my network and programming learning;
+- 🌱 I’m currently learning Flutter, Front-End WEB and network;
+- 💼 I’m actually working as a network administrator intern;
 - 💬 Ask me about anything tech related;
 - 📫 How to reach me: Shoot me an email or send me a message via [Whatsapp](https://api.whatsapp.com/send?phone=5511970462720&text=Hello%20there%2C%20your%20Github%20profile%20caught%20my%20attention.);
 - 🎮 Fun fact: I love to play Teamfight Tactics and I'm a big fan of League of Legends. 
